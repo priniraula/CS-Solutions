@@ -1,2 +1,2 @@
-# CS-Solutions
-programming solutions
+# Solutions
+Programming contest solutions
